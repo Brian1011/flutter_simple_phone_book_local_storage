@@ -10,8 +10,8 @@ class AddNewContactDialog extends StatefulWidget {
 class _AddNewContactDialogState extends State<AddNewContactDialog> {
   @override
   Widget build(BuildContext context) {
-    return const Container(
-      child: Text('AddNewContactDialog'),
+    return Container(
+      child: const Text('AddNewContactDialog'),
     );
   }
 }
